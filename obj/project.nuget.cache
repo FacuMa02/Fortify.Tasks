@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6SFPJpzGc0=",
+  "success": true,
+  "projectFilePath": "/home/snake/Desktop/C#/fortifyTasks/fortifyTasks.csproj",
+  "expectedPackageFiles": [
+    "/home/snake/.nuget/packages/microsoft.aspnetcore.openapi/10.0.13/microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "/home/snake/.nuget/packages/microsoft.entityframeworkcore/10.0.13/microsoft.entityframeworkcore.10.0.13.nupkg.sha512",
+    "/home/snake/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.13/microsoft.entityframeworkcore.abstractions.10.0.13.nupkg.sha512",
+    "/home/snake/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.13/microsoft.entityframeworkcore.analyzers.10.0.13.nupkg.sha512",
+    "/home/snake/.nuget/packages/microsoft.entityframeworkcore.inmemory/10.0.13/microsoft.entityframeworkcore.inmemory.10.0.13.nupkg.sha512",
+    "/home/snake/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
